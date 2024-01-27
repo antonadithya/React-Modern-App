@@ -2,7 +2,7 @@
 # Next Generation Bank
 The Next Generation Payment Method landing page is designed to revolutionize your online banking experience. With a focus on modern design and user-friendly features, our landing page offers a seamless interface for your customers to explore your services and engage with your brand.
 
-##✅ Features
+## ✅ Features
 
 - Responsive Design: Our landing page is optimized for all devices, ensuring a consistent and enjoyable browsing experience for your customers, whether they're on desktop, tablet, or mobile.
 - Modern UI/UX: We've incorporated cutting-edge design principles to create an intuitive and visually stunning interface that reflects the professionalism and innovation of your bank.
@@ -13,18 +13,18 @@ The Next Generation Payment Method landing page is designed to revolutionize you
 - Optimized Performance: With a focus on optimization, our landing page loads quickly and operates smoothly, ensuring that your customers can access the information they need without delay.
 
 
-##📷 Screenshots
+## 📷 Screenshots
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4MbvjPV/mon.png" alt="mon" border="0" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4gKtjzZ/tabb.png" alt="tabb" border="0"></a>
 
 
-##🚀 Demo
+## 🚀 Demo
 
 https://reactmodern-ui.netlify.app/
 
 
-##✨ Installation
+## ✨ Installation
 
 Clone Repository:
 
@@ -53,7 +53,7 @@ Start Development Server:
 Open your browser and go to http://localhost:3000.
 
 
-##💻  Tech Stack
+## 💻  Tech Stack
 
 **Client:** React, TailwindCSS
 
