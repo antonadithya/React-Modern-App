@@ -15,7 +15,7 @@ The Next Generation Payment Method landing page is designed to revolutionize you
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/P42X5w6)
+(<a href="https://imgbb.com/"><img src="https://i.ibb.co/4MbvjPV/mon.png" alt="mon" border="0" /></a>)
 
 
 ## Demo
